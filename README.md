@@ -99,7 +99,7 @@ _✨ 由暨南大学某软件工程课程小组维护 ✨_
 
 ##  性能测试
 
-⌛️等待开展
+![性能测试](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/performance.png)
 
 ##  未来展望/更新日志
 
