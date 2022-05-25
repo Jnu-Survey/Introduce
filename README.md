@@ -19,7 +19,7 @@ _✨ 由暨南大学某软件工程课程小组维护 ✨_
 
 ##  项目介绍：
 
-![概念图](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/poster.png)
+![概念图](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/poster_1.png)
 
 暂时借助面向软件工程大作业编程的契机，做一个**在线调查问卷管理系统**。
 
@@ -91,7 +91,7 @@ _✨ 由暨南大学某软件工程课程小组维护 ✨_
 
 ##  项目定位
 
-![项目定位](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/location.png)
+![项目定位](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/location_1.png)
 
 ##  整体架构
 
@@ -99,7 +99,7 @@ _✨ 由暨南大学某软件工程课程小组维护 ✨_
 
 ##  性能测试
 
-![性能测试](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/performance.png)
+![性能测试](https://raw.githubusercontent.com/Jnu-Survey/Introduce/main/assets/performance_1.png)
 
 ##  未来展望/更新日志
 
